@@ -1,0 +1,79 @@
+.header {
+    text-align: center;
+    background-color: rgb(88, 255, 88);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+.a {
+    color: rgb(248, 4, 4);
+    text-shadow: 1px 2px 5px rgb(107, 115, 233);
+    font-size: 70px;
+}
+.b {
+    color: rgb(255, 255, 0);
+    text-shadow: 1px 2px 5px rgb(107, 115, 233);
+    font-size: 70px;
+}
+.c {
+    color: rgb(255, 166, 0);
+    text-shadow: 1px 2px 5px rgb(107, 115, 233);
+    font-size: 70px;
+}
+.book {
+    color: green;
+    text-shadow: 1px 2px 5px rgb(107, 115, 233);
+    font-size: 70px;
+}
+.top {
+    margin-left: 90%;
+    background-color: rgba(212, 0, 255, 0.447);
+    font-family: arial;
+    font-size: 2.5em;
+    color: rgb(16, 198, 0);
+    position: fixed;
+    border-radius: 3px 25px 3px 25px;
+    text-decoration: none;
+    padding: 10px;
+}
+#links {
+    font-size: 20px;
+    cursor: pointer;
+}
+#Head {
+    word-spacing: 10px;
+    background-color: aqua;
+    color: red;
+    font-size: 25px;
+    text-shadow: 0.5px 0.5px 0px rgb(17, 17, 26);
+    text-decoration: underline rgb(7, 7, 5);
+    padding: 30px
+}
+.form {
+    background-color: rgb(201, 198, 198);
+    border: 1px solid rgb(32, 35, 240);
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding: 20px;
+}
+h3 {
+    color: rgb(6, 6, 202);
+}
+input {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(160, 165, 163);
+    border: none;
+    border-radius: 2px;
+}
+textarea {
+    margin-top: 10px;
+    background-color: rgb(160, 165, 163);
+    border: none;
+    padding: 5px;
+    border-radius: 2px;
+}
+.submit {
+    background-color: rgb(32, 32, 218);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
